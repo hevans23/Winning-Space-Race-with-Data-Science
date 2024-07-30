@@ -1,4 +1,4 @@
-# Winning-Space-Race-with-Data-Science
+# Winning Space Race with Data Science
 IBM Data Science Professional Certificate: Applied Data Science Capstone
 
 This capstone project brings together the knowledge and skills learned throughout the IBM Data Science Professional Certificate, applying them to an exciting project based around SpaceX rocket launches.
